@@ -1,0 +1,26 @@
+{
+    "development": {
+      "username": "root",
+      "password": "suphomie17899",
+      "database": "workout_buddy",
+      "host": "127.0.0.1",
+      "port": 3306,
+      "dialect": "mysql"
+    },
+    "test": {
+      "username": "root",
+      "password": "suphomie17899",
+      "database": "database_test",
+      "host": "127.0.0.1",
+      "port": 3306,
+      "dialect": "mysql"
+    },
+    "production": {
+      "username": "be63b2339c9627",
+      "password": "f10e0eaf",
+      "database": "heroku_feabce87448e31f",
+      "host": "us-cdbr-iron-east-04.cleardb.net",
+      "port": 3306,
+      "dialect": "mysql"
+    }
+  }
